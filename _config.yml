@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: Daniyar Alpyspayev
+email: daniyar.alpyspayev@yandex.com
+description: >- 
+  Software Engineer
+baseurl: "" 
+url: "https://ich1gosan.github.io"
+twitter_username: Ich1goSan
+github_username:  Ich1goSan
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
